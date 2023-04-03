@@ -1,10 +1,6 @@
 name: Echo Script CI
 
- 
-
 on: [push]
-
- 
 
 jobs:
   echo_script_job:
