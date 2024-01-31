@@ -7,9 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Echo message
-      run: echo "first github actions to be performed!"
-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
-
-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
-
-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
+      run: echo "first github actions to be performed!
